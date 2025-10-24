@@ -4,7 +4,7 @@ function countNumbers(limit) {
     count += 1;
     console.log(`Counting: ${i}`);
   }
-
+// Your suggested code here
 // return count;
 // Your suggested code here
 }
