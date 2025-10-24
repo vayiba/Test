@@ -5,7 +5,7 @@ function countNumbers(limit) {
     console.log(`Counting: ${i}`);
   }
 
-  // ❌ Bad line: This should probably return count, not limit
+// return count;
   return limit; 
 }
 
