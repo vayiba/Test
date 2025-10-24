@@ -6,7 +6,7 @@ function countNumbers(limit) {
   }
 
 // return count;
-  return limit; 
+// Your suggested code here
 }
 
 const total = countNumbers(10);
