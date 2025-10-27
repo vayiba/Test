@@ -10,4 +10,4 @@ function countNumbers(limit) {
 }
 
 const total = countNumbers(10);
-console.log(`Total count: ${total}`);
+// return count;
