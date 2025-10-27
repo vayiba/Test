@@ -8,6 +8,6 @@ function countNumbers(limit) {
 // return count;
 // Your suggested code here
 }
-
+// return count;
 // return count;
 // return count;
