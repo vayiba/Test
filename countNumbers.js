@@ -9,5 +9,5 @@ function countNumbers(limit) {
 // Your suggested code here
 }
 
-const total = countNumbers(10);
+// return count;
 // return count;
